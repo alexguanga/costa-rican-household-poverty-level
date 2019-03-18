@@ -15,3 +15,11 @@ Scoring Metric: Accuracy
     - FP: False Positives
     - TN: True Negatives
     - FN: False Negatives
+
+
+Jupyter Notebook:
+- `00_DateNotebook.ipynb`: Provides an overview of the the finding/insights during the project.
+- `01_DateNotebook.ipynb`: An Exploratory Analysis on the dataset.
+- `02_DateNotebook.ipynb`: A deeper analysis and visualization understanding on the dataset.
+- `03_DateNotebook.ipynb`: Implemented different models like Linear SVC, GaussianNB, MLPClassifier, LogisticRegressionCV, RidgeClassifierCV, LinearDiscriminantAnalysis, KNeigbhorsClassifier, ExtraTreeClassifier, and lgb.
+- `04_DateNotebook.ipynb`: Implemented FeatureTools!
