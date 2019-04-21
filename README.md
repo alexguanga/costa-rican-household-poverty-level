@@ -17,9 +17,14 @@ Scoring Metric: Accuracy
     - FN: False Negatives
 
 
-Jupyter Notebook:
-- `00_DateNotebook.ipynb`: Provides an overview of the the finding/insights during the project.
-- `01_DateNotebook.ipynb`: An Exploratory Analysis on the dataset.
-- `02_DateNotebook.ipynb`: A deeper analysis and visualization understanding on the dataset.
+MyBinder Jupyter Interactive Notebooks:
+1. `00_DateNotebook.ipynb`: Provides an overview of the the finding/insights during the project.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexguanga/costa-rican-household-poverty-level.git/master?filepath=00_DateNotebook.ipynb)
+2. `01_DateNotebook.ipynb`: An Exploratory Analysis on the dataset.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexguanga/costa-rican-household-poverty-level.git/master?filepath=01_DataNotebook.ipynb)
+- `02_DateNotebook.ipynb`: A deeper analysis and visualization understanding on the dataset. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexguanga/costa-rican-household-poverty-level.git/master?filepath=02_DateNotebook.ipynb)
 - `03_DateNotebook.ipynb`: Implemented different models like Linear SVC, GaussianNB, MLPClassifier, LogisticRegressionCV, RidgeClassifierCV, LinearDiscriminantAnalysis, KNeigbhorsClassifier, ExtraTreeClassifier, and lgb.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexguanga/costa-rican-household-poverty-level.git/master?filepath=03_DataNotebook.ipynb)
 - `04_DateNotebook.ipynb`: Implemented FeatureTools!
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexguanga/costa-rican-household-poverty-level.git/master?filepath=04_DateNotebook.ipynb)
